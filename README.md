@@ -10,7 +10,7 @@ This Python script allows you to generate QR codes from a given link.
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using requirements.txt:
+2. Install the required dependencies using requirements.txt or:
 
     ```
     pip install pyqrcode
